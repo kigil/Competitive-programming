@@ -1,2 +1,3 @@
 # Competitive-programming
-atcoder
+atcoderの自分の解答まとめ(python)
+WA,TLEのコードあり
